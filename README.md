@@ -2,6 +2,7 @@
 
 <div id="header" align="center">
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" width="300"/>
+  ### Hi there 👋
 </div>
 
 <!--
