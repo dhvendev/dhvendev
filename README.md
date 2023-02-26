@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" width="100"/>
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" width="300"/>
 </div>
 
 <!--
