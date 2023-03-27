@@ -11,7 +11,7 @@
 - 💣 I teach basic Python programming to teenagers at school
 - :calling: Creating chat bots on Aiogram
 - :computer: Working on Flask mini-applications
-- :game_die: Running an entertaining Telegram bot for 8500 players
+- :game_die: Running an entertaining Telegram bot for 10000 players
 
 
 <!--
