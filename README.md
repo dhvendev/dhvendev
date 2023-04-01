@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My projects
+
+All projects have been created purely for fun. Projects:
+- 👾 Web application on Flask framework which shows the current weather - https://weatherven.ru/
