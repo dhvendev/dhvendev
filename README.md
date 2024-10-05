@@ -8,7 +8,6 @@
 
 ### About me :wave:
 
-- 💣 I teach basic Python programming to teenagers at school
 - :calling: Creating chat bots on Aiogram
 - :computer: Working on Flask mini-applications
 - :game_die: Running an entertaining Telegram bot for 10000 players
@@ -27,8 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### My projects
-
-All projects have been created purely for fun. Projects:
-- 👾 Web application on Flask framework which shows the current weather - https://weatherven.ru/
